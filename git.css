@@ -1,0 +1,63 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: red;
+}
+.imlogo{
+    align-items: center;
+}
+image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    text-spacing-trim: 20px;
+}
+.home, h2{
+    color: black;
+}
+.home, p{
+    color: brown;
+}
+.about, h2{
+    color: black;
+}
+.about, p{
+    color: brown;
+}
+.contact, h2{
+    color: black;
+}
+.contact, p{
+    color: brown;
+}
+.projects, h2{
+    color: black;
+}
+.projects, p{
+    color: brown;
+}
+.projects, ul{
+    color: rgb(45, 23, 168);
+
+}
+.contact-form{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+footer{
+    color: rgb(185, 32, 32);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
